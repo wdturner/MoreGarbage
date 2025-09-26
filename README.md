@@ -1,2 +1,4 @@
 # MoreGarbage
-Class demi
+Class demo
+
+This is another line.
