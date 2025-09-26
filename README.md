@@ -2,3 +2,5 @@
 Class demo
 
 This is another line.
+
+Change.
